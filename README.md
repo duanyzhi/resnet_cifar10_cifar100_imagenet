@@ -22,13 +22,19 @@ something about resnet:https://duanyzhi.github.io/ResNet/
 # -------------------------------
 # HOW TO RUN(terminal run)
 run cifar10 for train/test:
+
     python main.py --pattern train --data cifar10
+    
     python main.py --pattern test --data cifar10
     
 run cifar100 for train/test:
+
     python main.py --pattern train --data cifar100
+    
     python main.py --pattern test --data cifar100
     
 run ImageNet for train/test:
+
     python main.py --pattern train --data ImageNet
+    
     python main.py --pattern test --data ImageNet　
