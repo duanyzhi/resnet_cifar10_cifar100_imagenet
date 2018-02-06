@@ -17,6 +17,7 @@ the final acc is around 0.778(but I use the wide resnet,k=4)
 the detail about ImageNet:(https://github.com/duanyzhi/ImageNet_Label)
 -------------------------------------------------------------------------------
 you mabey need (DeepLearning)[https://github.com/duanyzhi/deep_learning]
+something about resnet:https://duanyzhi.github.io/ResNet/
 # -------------------------------
 # HOW TO RUN(terminal run)
 run cifar10 for train/test:
