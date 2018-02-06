@@ -1,4 +1,5 @@
 # CIFAR10
+![resnet_cifar10](https://i.imgur.com/ifynl8t.png)
 # CIFAR100
 # ImageNet
 1. Download ImageNet, The we have 1000 ***.tar file
