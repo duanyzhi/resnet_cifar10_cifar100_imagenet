@@ -19,6 +19,12 @@ the detail about ImageNet:(https://github.com/duanyzhi/ImageNet_Label)
 you mabey need (DeepLearning)[https://github.com/duanyzhi/deep_learning]
 
 something about resnet:https://duanyzhi.github.io/ResNet/
+
+# Environment
+python 3.5
+tensorflow 1.3
+opencv
+
 # -------------------------------
 # HOW TO RUN(terminal run)
 run cifar10 for train/test:
